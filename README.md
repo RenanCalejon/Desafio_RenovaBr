@@ -43,9 +43,9 @@ Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utiliza
 
 + No caso com a formula  ultizada ÍNDICE(A3:A15;CORRESP(MÁXIMO(C3:C15);C3:C15;0)) na coluna QT_VOTOS_MUNICIPIO arrastando para baixo ela já retorna o municipio em que o candidatos tiveram mais votos .
 
-### 📊 Qual perfil do eleitorado mais votou em cada candidato .
+### 📊 Perfil do eleitorado.
++ Para a análise do eleitorado foi ultizado tabelas dinamicas e convertidas para gráficos : 
 
-Para saber qual é o perfil do eleitorado foram feitas tabelas dinamicas com os dados disponiveis e convertidas para gráficos : irei disponibilizar um arquivo com as imagens
 
 	
 
