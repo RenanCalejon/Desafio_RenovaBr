@@ -1,9 +1,9 @@
 # Desafio_RenovaBr
 ### Desafio focado nas bases de dados referentes às eleições de 2020, com ênfase na análise do estado de São Paulo e seus municípios.
 
-Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utilização do Excel e Python:
++ Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utilização do Excel e Python:
 
-📒 Os arquivos perfil_eleitorado_2020.ipynb e resultado_candidatos.ipynb contém tratamento dos dados com utilização de python
++ Os arquivos perfil_eleitorado_2020.ipynb e resultado_candidatos.ipynb contém tratamento dos dados com utilização de python
 
 ### ⬇️ Abaixo segue o tratamento dos dados e as consultas pedidas em Excel 
 
