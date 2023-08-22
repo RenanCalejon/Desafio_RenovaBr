@@ -1,7 +1,11 @@
 # Desafio_RenovaBr
 ### Desafio focado nas bases de dados referentes às eleições de 2020, com ênfase na análise do estado de São Paulo e seus municípios.
 
-Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utilização do Excel:
+Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utilização do Excel e Python:
+
+📒 Os arquivos perfil_eleitorado_2020.ipynb e resultado_candidatos.ipynb contém tratamento dos dados com ultização de python
+
+### ⬇️ Abaixo segue o tratamento dos dados e as consultas pedidas em Excel 
 
 ⚠️ Analisando os arquivos em questão percebe-se que ambos ultrapassam o limite 1.048.576 linhas por planilha na qual o Excel consegue suportar, a solução para isso foi a utilização do Power Query do Excel que é um mecanismo de transformação e preparação de dados executado em nuvem, após os dados devidamente tratados dentro do Power Query foi feita a junção dos arquivos para conseguir concluir as consultas requisitadas.
 
