@@ -46,6 +46,7 @@ Para essa análise do perfil do eleitorado e dos candidatos eu escolhi a utiliza
 ### 📊 Perfil do eleitorado.
 + Para a análise do eleitorado foi ultizado tabelas dinamicas e convertidas para gráficos : 
 
+![Captura de tela 2023-08-22 180434](https://github.com/RenanCalejon/Desafio_RenovaBr/assets/101199913/e432e3f4-0204-49b2-bb00-fa0cc037be3b)
 
 	
 
